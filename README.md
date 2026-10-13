@@ -22,10 +22,10 @@ Identifier les tendances clés à partir de 541 909 transactions réelles :
 - JupyterLab
 
 ## Résultats clés
-- **Produit star :** PAPER CRAFT, LITTLE BIRDIE (168 469£)
-- **Mois le plus rentable :** Novembre 2011 (~1.16M£)
-- **Marché principal :** Royaume-Uni (7.3M£)
-- **Heure de pointe :** 12h avec 1.37M£ de revenu
+- **Produit star :** Regency Cakestand, (134 694 £)
+- **Mois le plus rentable :** Novembre 2011 (~1.13M£)
+- **Marché principal :** Royaume-Uni (6.7M£)
+- **Heure de pointe :** 12h avec 1.32M£ de revenu
 
 ## Auteur
 Yassine Oulad Bouaziz — [LinkedIn](https://linkedin.com/in/yassine-oulad-bouaziz-3319a02bb) | [GitHub](https://github.com/ouladbouaziz)
